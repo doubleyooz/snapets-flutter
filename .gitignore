@@ -9,8 +9,6 @@
 .history
 .svn/
 
-android/
-ios/
 pubspec.lock
 pubspec.yaml
 .metadata
